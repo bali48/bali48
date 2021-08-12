@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Muhammad Bilal GitHub stats](https://github-readme-stats.vercel.app/api?username=bali48&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bali48&layout=compact)](https://github.com/bali48/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bali48&layout=compact)]
 

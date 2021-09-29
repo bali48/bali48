@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilal Muhammad</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <h3 align="center">JavaScript Developer | React, Vue | NodeJs | DevOPS nerd.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bali48" alt="bali48" /></a> </p>
@@ -34,4 +34,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mbilalmalik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mbilalmalik" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bali48&show_icons=true&locale=en&layout=compact" alt="bali48" /></p>
+

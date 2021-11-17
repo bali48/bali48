@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with [Make My Cake](https://makemycake.co.in/)
 
-- 💬 Ask me about **JavaScript, NodeJS**
+- 💬 Ask me about **JavaScript, ReactJS, VueJS, NodeJS**
 
 - 📫 How to reach me **m.bilal294@outlook.com**
 

@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **m.bilal294@outlook.com**
 
-- 📄 Know about my experiences [https://mbilalmalik.bitbucket.io/assets/resume/Resume-Muhammad-Bilal.pdf](https://mbilalmalik.bitbucket.io/assets/resume/Resume-Muhammad-Bilal.pdf)
+- 📄 Know about my experiences [Resume](https://mbilalmalik.bitbucket.io/assets/resume/Resume-Muhammad-Bilal.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,8 +2,6 @@
 <h3 align="center">JavaScript Developer | React, Vue | NodeJs | DevOPS nerd.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/bilal_107" target="blank"><img src="https://img.shields.io/twitter/follow/bilal_107?logo=twitter&style=for-the-badge" alt="bilal_107" /></a> </p>
-
 - 🔭 I’m currently working on [WATER MISSION](https://watermission.org/)
 
 - 🌱 I’m currently learning **AWS Certified Solutions Architect – Associate**
